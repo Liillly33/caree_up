@@ -1,0 +1,62 @@
+{
+  "python_tests": 48,
+  "python_status": "passed",
+  "postgres_integration": "passed with PGlite",
+  "dom_jsdom": "passed",
+  "live_database_schema_applied": true,
+  "live_initial_rows": 0,
+  "live_rls": true,
+  "live_composite_primary_key": [
+    "MATCH_ID",
+    "MATCH_RANK"
+  ],
+  "live_anonymous_read_save": false,
+  "live_authenticated_direct_insert_update": false,
+  "gemini_real_call": {
+    "status": "PASSED",
+    "model": "gemini-3.5-flash-lite",
+    "batch_count": 5,
+    "seconds": 5.6,
+    "evidence": "synthetic evidence, production Gemini generator"
+  },
+  "sbert_real_inference": "NOT_RUN_MISSING_RUNTIME_DEPENDENCIES",
+  "authenticated_browser_e2e": "NOT_RUN",
+  "api_version": "8",
+  "live_save_rpc": "PASSED: 5 rows as authenticated role, rolled back, remaining rows 0",
+  "reported_user_error_root_cause": "UNCONFIRMED: previous Gemini request reproduced error but old code suppressed upstream status; no user-side response detail provided",
+  "gemini_recovery_tests": "503 retry/recovery; 429 limit; timeout; connection failure; 404 no retry; ID reordering; correct API status; no key leakage",
+  "history_ui": "PASS jsdom: collapsed winner with reason, ranks 2 and 3 single rows, ranks 4/5 rendered only on expansion, expand/collapse aria attributes, one-result history, pagination, XSS, logout reset",
+  "history_ui_version": "compact-2",
+  "served_ui_regression": "PASS: served HTML includes compact history renderer, no separate runtime script dependency, no-store response headers; no extra visible version badge or startup path notices",
+  "roadmap_db_integration": "PASS PGlite: multiple history, latest, source score, atomic flag, own-only; live authenticated create/read/selection tested and rolled back",
+  "roadmap_dom": "PASS empty CTA, all create buttons, source-only POST, navigation, current target ring, history selection, reload, duplicate guard, failure retention, XSS, logout stale reads/creates, MyPage reload lifecycle",
+  "roadmap_live_schema_applied": true,
+  "roadmap_real_browser_e2e": "NOT_RUN",
+  "recommendation_accordion": "PASS jsdom: five collapsed panels initially, one open at a time, prior card closes, same card toggles closed, roadmap creation source unchanged, history rendering unchanged",
+  "certificate_adventure_db": "PASS PGlite: fixed/current stage goals, custom CRUD, all-goal daily level once, back/forward duplicate protection, phase/date/password gating, test reset/restore, real certificate dedupe, own-only access, secret-column deny; live authenticated test and real-mode qualification writes verified then rolled back",
+  "certificate_adventure_ui": "PASS jsdom: calendar drawer/month/day selection, date editing, fixed/user goals, levels, bosses, passwords, classes, final confirmation, celebration, isolated test exit, report update, no EXP bars, logout stale-response guard",
+  "default_exam_dates": {
+    "written": "2026-01-30",
+    "practical": "2026-04-18",
+    "result": "2026-06-05"
+  },
+  "new_adventure_tables": [
+    "SC_USER_ADVENTURE"
+  ],
+  "real_browser_e2e": "NOT_RUN",
+  "roadmap_visual_update": "PASS jsdom: job-code badge removed, large circular score + accessible label + missing-score state, dynamic goal titles, warrior/priest/mage route cards with SVG icons and selected marker; previous adventure interactions preserved",
+  "explanation_version": "evidence-summary-v2",
+  "explanation_tests": "PASS related skills grouped, user-only activity evidence, partial requirements name missing technologies only, no fabricated third item, legacy roadmaps upgraded on read without DB write",
+  "score_invariance": "PASS exact rank, score and components for 5 fixed profiles before/after in lexical validation mode; SBERT scoring code unchanged",
+  "training_data_changed": false,
+  "additional_model_training_required": false,
+  "route_icons": {
+    "source": "uploaded index(2).html classRoutes",
+    "warrior": "sword",
+    "priest": "cross",
+    "mage": "wand-2",
+    "renderer": "original Lucide createIcons, no custom SVG paths",
+    "verification": "PASS: actual library downloaded from the exact original CDN URL; rendered SVG contents match original source icon configuration for all three routes"
+  },
+  "home_roadmap_navigation": "PASS jsdom: button beside certificate goal title switches to roadmap tab"
+}

@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "tech_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "licenses": []
+  },
+  "job_codes": [
+    "OPS",
+    "NET",
+    "BE"
+  ],
+  "top_k": 5
+}

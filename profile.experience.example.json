@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "tech_skills": [
+      "AWS 인프라를 구성하고 운영했습니다",
+      "Docker로 웹과 DB를 구성하고 배포했습니다",
+      "Kubernetes 기초 실습",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "licenses": []
+  },
+  "job_codes": [
+    "OPS",
+    "NET",
+    "BE"
+  ],
+  "top_k": 5
+}

@@ -1,0 +1,1050 @@
+[
+  {
+    "LC_ID": 1,
+    "LC_NAME": "정보처리기사",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-06-05",
+    "WRITTEN_DATE": "2026-01-30",
+    "PRACTICAL_DATE": "2026-04-18",
+    "LC_CERT_CODE": "IT_E",
+    "LC_CERT_NAME": "정보처리기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "1",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 2,
+    "LC_NAME": "정보보안기사 (2026년 제1회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보보안기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보보안기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-05-08",
+    "WRITTEN_DATE": "2026-02-09",
+    "PRACTICAL_DATE": "2026-04-11",
+    "LC_CERT_CODE": "SEC_E",
+    "LC_CERT_NAME": "정보보안기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "1",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보보안기사",
+      "보안",
+      "security",
+      "취약점",
+      "암호",
+      "네트워크 보안"
+    ],
+    "LC_STUDY_SCOPE": "시스템·네트워크 보안과 보안 관리의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 3,
+    "LC_NAME": "정보보안산업기사 (2026년 제1회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보보안산업기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보보안산업기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-05-08",
+    "WRITTEN_DATE": "2026-02-09",
+    "PRACTICAL_DATE": "2026-04-11",
+    "LC_CERT_CODE": "SEC_I",
+    "LC_CERT_NAME": "정보보안산업기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "1",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보보안산업기사",
+      "보안",
+      "security",
+      "취약점",
+      "암호",
+      "네트워크 보안"
+    ],
+    "LC_STUDY_SCOPE": "시스템·네트워크 보안과 보안 관리의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 4,
+    "LC_NAME": "정보보안기사 (2026년 제2회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보보안기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보보안기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-08-28",
+    "WRITTEN_DATE": "2026-05-22",
+    "PRACTICAL_DATE": "2026-07-25",
+    "LC_CERT_CODE": "SEC_E",
+    "LC_CERT_NAME": "정보보안기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보보안기사",
+      "보안",
+      "security",
+      "취약점",
+      "암호",
+      "네트워크 보안"
+    ],
+    "LC_STUDY_SCOPE": "시스템·네트워크 보안과 보안 관리의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 5,
+    "LC_NAME": "정보보안산업기사 (2026년 제2회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보보안산업기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보보안산업기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-08-28",
+    "WRITTEN_DATE": "2026-05-22",
+    "PRACTICAL_DATE": "2026-07-25",
+    "LC_CERT_CODE": "SEC_I",
+    "LC_CERT_NAME": "정보보안산업기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보보안산업기사",
+      "보안",
+      "security",
+      "취약점",
+      "암호",
+      "네트워크 보안"
+    ],
+    "LC_STUDY_SCOPE": "시스템·네트워크 보안과 보안 관리의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 6,
+    "LC_NAME": "정보보안기사 (2026년 제4회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보보안기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보보안기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-18",
+    "WRITTEN_DATE": "2026-09-14",
+    "PRACTICAL_DATE": "2026-11-14",
+    "LC_CERT_CODE": "SEC_E",
+    "LC_CERT_NAME": "정보보안기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "4",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보보안기사",
+      "보안",
+      "security",
+      "취약점",
+      "암호",
+      "네트워크 보안"
+    ],
+    "LC_STUDY_SCOPE": "시스템·네트워크 보안과 보안 관리의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 7,
+    "LC_NAME": "정보보안산업기사 (2026년 제4회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보보안산업기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보보안산업기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-18",
+    "WRITTEN_DATE": "2026-09-14",
+    "PRACTICAL_DATE": "2026-11-14",
+    "LC_CERT_CODE": "SEC_I",
+    "LC_CERT_NAME": "정보보안산업기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "4",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보보안산업기사",
+      "보안",
+      "security",
+      "취약점",
+      "암호",
+      "네트워크 보안"
+    ],
+    "LC_STUDY_SCOPE": "시스템·네트워크 보안과 보안 관리의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 8,
+    "LC_NAME": "정보처리기사 (2026년 제1회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-06-05",
+    "WRITTEN_DATE": "2026-01-30",
+    "PRACTICAL_DATE": "2026-04-18",
+    "LC_CERT_CODE": "IT_E",
+    "LC_CERT_NAME": "정보처리기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "1",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 9,
+    "LC_NAME": "정보처리산업기사 (2026년 제1회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리산업기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리산업기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-06-05",
+    "WRITTEN_DATE": "2026-01-30",
+    "PRACTICAL_DATE": "2026-04-18",
+    "LC_CERT_CODE": "IT_I",
+    "LC_CERT_NAME": "정보처리산업기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "1",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리산업기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 10,
+    "LC_NAME": "정보처리기사 (2026년 제2회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-09-04",
+    "WRITTEN_DATE": "2026-05-09",
+    "PRACTICAL_DATE": "2026-07-18",
+    "LC_CERT_CODE": "IT_E",
+    "LC_CERT_NAME": "정보처리기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 11,
+    "LC_NAME": "정보처리산업기사 (2026년 제2회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리산업기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리산업기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-09-04",
+    "WRITTEN_DATE": "2026-05-09",
+    "PRACTICAL_DATE": "2026-07-18",
+    "LC_CERT_CODE": "IT_I",
+    "LC_CERT_NAME": "정보처리산업기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리산업기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 12,
+    "LC_NAME": "정보처리기사 (2026년 제3회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-11",
+    "WRITTEN_DATE": "2026-08-07",
+    "PRACTICAL_DATE": "2026-10-24",
+    "LC_CERT_CODE": "IT_E",
+    "LC_CERT_NAME": "정보처리기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "3",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 13,
+    "LC_NAME": "정보처리산업기사 (2026년 제3회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "정보처리산업기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "정보처리산업기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-11",
+    "WRITTEN_DATE": "2026-08-07",
+    "PRACTICAL_DATE": "2026-10-24",
+    "LC_CERT_CODE": "IT_I",
+    "LC_CERT_NAME": "정보처리산업기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "3",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "정보처리산업기사",
+      "자료구조",
+      "알고리즘",
+      "소프트웨어공학",
+      "데이터베이스 설계"
+    ],
+    "LC_STUDY_SCOPE": "소프트웨어 개발, 자료구조·알고리즘, 데이터베이스 설계의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 14,
+    "LC_NAME": "빅데이터 분석기사 (2026년 제12회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "빅데이터 분석기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "빅데이터 분석기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-07-10",
+    "WRITTEN_DATE": "2026-04-04",
+    "PRACTICAL_DATE": "2026-06-20",
+    "LC_CERT_CODE": "BIGDATA",
+    "LC_CERT_NAME": "빅데이터 분석기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "12",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "빅데이터",
+      "데이터 분석",
+      "데이터 전처리",
+      "통계",
+      "머신러닝",
+      "pandas",
+      "numpy",
+      "scikit-learn"
+    ],
+    "LC_STUDY_SCOPE": "데이터 전처리, 통계·분석 방법과 분석 실습 학습"
+  },
+  {
+    "LC_ID": 15,
+    "LC_NAME": "빅데이터 분석기사 (2026년 제13회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "빅데이터 분석기사 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "필기시험 완료"
+      },
+      {
+        "id": "practical",
+        "daily": "빅데이터 분석기사 실기 문제 1개 풀고 풀이 정리하기",
+        "title": "실기시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-18",
+    "WRITTEN_DATE": "2026-09-05",
+    "PRACTICAL_DATE": "2026-11-28",
+    "LC_CERT_CODE": "BIGDATA",
+    "LC_CERT_NAME": "빅데이터 분석기사",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "13",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "빅데이터",
+      "데이터 분석",
+      "데이터 전처리",
+      "통계",
+      "머신러닝",
+      "pandas",
+      "numpy",
+      "scikit-learn"
+    ],
+    "LC_STUDY_SCOPE": "데이터 전처리, 통계·분석 방법과 분석 실습 학습"
+  },
+  {
+    "LC_ID": 16,
+    "LC_NAME": "데이터분석 준전문가 (2026년 제48회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "데이터분석 준전문가 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-03-06",
+    "WRITTEN_DATE": "2026-02-07",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "ADSP",
+    "LC_CERT_NAME": "데이터분석 준전문가",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "48",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "데이터 분석",
+      "데이터분석",
+      "통계",
+      "분석 기획",
+      "adsp"
+    ],
+    "LC_STUDY_SCOPE": "데이터 분석 기획과 통계·분석 방법의 기초 개념 학습"
+  },
+  {
+    "LC_ID": 17,
+    "LC_NAME": "데이터분석 준전문가 (2026년 제49회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "데이터분석 준전문가 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-06-05",
+    "WRITTEN_DATE": "2026-05-17",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "ADSP",
+    "LC_CERT_NAME": "데이터분석 준전문가",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "49",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "데이터 분석",
+      "데이터분석",
+      "통계",
+      "분석 기획",
+      "adsp"
+    ],
+    "LC_STUDY_SCOPE": "데이터 분석 기획과 통계·분석 방법의 기초 개념 학습"
+  },
+  {
+    "LC_ID": 18,
+    "LC_NAME": "데이터분석 준전문가 (2026년 제50회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "데이터분석 준전문가 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-08-28",
+    "WRITTEN_DATE": "2026-08-08",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "ADSP",
+    "LC_CERT_NAME": "데이터분석 준전문가",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "50",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "데이터 분석",
+      "데이터분석",
+      "통계",
+      "분석 기획",
+      "adsp"
+    ],
+    "LC_STUDY_SCOPE": "데이터 분석 기획과 통계·분석 방법의 기초 개념 학습"
+  },
+  {
+    "LC_ID": 19,
+    "LC_NAME": "데이터분석 준전문가 (2026년 제51회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "데이터분석 준전문가 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-11-20",
+    "WRITTEN_DATE": "2026-10-31",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "ADSP",
+    "LC_CERT_NAME": "데이터분석 준전문가",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "51",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "데이터 분석",
+      "데이터분석",
+      "통계",
+      "분석 기획",
+      "adsp"
+    ],
+    "LC_STUDY_SCOPE": "데이터 분석 기획과 통계·분석 방법의 기초 개념 학습"
+  },
+  {
+    "LC_ID": 20,
+    "LC_NAME": "SQL 개발자 (2026년 제60회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "SQL 개발자 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-03-27",
+    "WRITTEN_DATE": "2026-03-07",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "SQLD",
+    "LC_CERT_NAME": "SQL 개발자",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "60",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "sql",
+      "mysql",
+      "postgresql",
+      "oracle",
+      "데이터 모델링",
+      "sqld"
+    ],
+    "LC_STUDY_SCOPE": "SQL과 관계형 데이터 모델링의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 21,
+    "LC_NAME": "SQL 개발자 (2026년 제61회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "SQL 개발자 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-06-19",
+    "WRITTEN_DATE": "2026-05-31",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "SQLD",
+    "LC_CERT_NAME": "SQL 개발자",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "61",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "sql",
+      "mysql",
+      "postgresql",
+      "oracle",
+      "데이터 모델링",
+      "sqld"
+    ],
+    "LC_STUDY_SCOPE": "SQL과 관계형 데이터 모델링의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 22,
+    "LC_NAME": "SQL 개발자 (2026년 제62회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "SQL 개발자 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-09-11",
+    "WRITTEN_DATE": "2026-08-22",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "SQLD",
+    "LC_CERT_NAME": "SQL 개발자",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "62",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "sql",
+      "mysql",
+      "postgresql",
+      "oracle",
+      "데이터 모델링",
+      "sqld"
+    ],
+    "LC_STUDY_SCOPE": "SQL과 관계형 데이터 모델링의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 23,
+    "LC_NAME": "SQL 개발자 (2026년 제63회)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "SQL 개발자 필기 기출문제 20문제 풀고 오답 정리하기",
+        "title": "시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-04",
+    "WRITTEN_DATE": "2026-11-14",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "SQLD",
+    "LC_CERT_NAME": "SQL 개발자",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "63",
+    "LC_PHASE": null,
+    "LC_TECH_TAGS": [
+      "sql",
+      "mysql",
+      "postgresql",
+      "oracle",
+      "데이터 모델링",
+      "sqld"
+    ],
+    "LC_STUDY_SCOPE": "SQL과 관계형 데이터 모델링의 기본 개념 학습"
+  },
+  {
+    "LC_ID": 24,
+    "LC_NAME": "리눅스마스터 1급 (2026년 2601회 1차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 1급 1차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "1차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-04-03",
+    "WRITTEN_DATE": "2026-03-14",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX1",
+    "LC_CERT_NAME": "리눅스마스터 1급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2601",
+    "LC_PHASE": 1,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 시스템·서버 운영과 관리에 관한 지식 학습"
+  },
+  {
+    "LC_ID": 25,
+    "LC_NAME": "리눅스마스터 1급 (2026년 2601회 2차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 1급 2차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "2차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-05-29",
+    "WRITTEN_DATE": "2026-05-09",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX1",
+    "LC_CERT_NAME": "리눅스마스터 1급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2601",
+    "LC_PHASE": 2,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 시스템·서버 운영과 관리에 관한 지식 학습"
+  },
+  {
+    "LC_ID": 26,
+    "LC_NAME": "리눅스마스터 1급 (2026년 2602회 1차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 1급 1차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "1차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-10-02",
+    "WRITTEN_DATE": "2026-09-12",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX1",
+    "LC_CERT_NAME": "리눅스마스터 1급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2602",
+    "LC_PHASE": 1,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 시스템·서버 운영과 관리에 관한 지식 학습"
+  },
+  {
+    "LC_ID": 27,
+    "LC_NAME": "리눅스마스터 1급 (2026년 2602회 2차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 1급 2차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "2차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-04",
+    "WRITTEN_DATE": "2026-11-14",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX1",
+    "LC_CERT_NAME": "리눅스마스터 1급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2602",
+    "LC_PHASE": 2,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 시스템·서버 운영과 관리에 관한 지식 학습"
+  },
+  {
+    "LC_ID": 28,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2601회 1차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 1차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "1차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-01-27",
+    "WRITTEN_DATE": "2026-01-27",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2601",
+    "LC_PHASE": 1,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 29,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2601회 2차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 2차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "2차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-04-03",
+    "WRITTEN_DATE": "2026-03-14",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2601",
+    "LC_PHASE": 2,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 30,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2602회 1차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 1차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "1차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-05-02",
+    "WRITTEN_DATE": "2026-05-02",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2602",
+    "LC_PHASE": 1,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 31,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2602회 2차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 2차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "2차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-07-03",
+    "WRITTEN_DATE": "2026-06-13",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2602",
+    "LC_PHASE": 2,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 32,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2603회 1차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 1차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "1차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-08-05",
+    "WRITTEN_DATE": "2026-08-01",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2603",
+    "LC_PHASE": 1,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 33,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2603회 2차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 2차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "2차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-10-02",
+    "WRITTEN_DATE": "2026-09-12",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2603",
+    "LC_PHASE": 2,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 34,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2604회 1차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 1차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "1차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-11-04",
+    "WRITTEN_DATE": "2026-10-31",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2604",
+    "LC_PHASE": 1,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  },
+  {
+    "LC_ID": 35,
+    "LC_NAME": "리눅스마스터 2급 (2026년 2604회 2차)",
+    "MID_GOALS": [
+      {
+        "id": "written",
+        "daily": "리눅스마스터 2급 2차 기출문제 20문제 풀고 오답 정리하기",
+        "title": "2차 시험 완료"
+      }
+    ],
+    "RESULT_DATE": "2026-12-31",
+    "WRITTEN_DATE": "2026-12-12",
+    "PRACTICAL_DATE": null,
+    "LC_CERT_CODE": "LINUX2",
+    "LC_CERT_NAME": "리눅스마스터 2급",
+    "LC_YEAR": 2026,
+    "LC_ROUND": "2604",
+    "LC_PHASE": 2,
+    "LC_TECH_TAGS": [
+      "linux",
+      "리눅스",
+      "bash",
+      "shell",
+      "ubuntu",
+      "centos"
+    ],
+    "LC_STUDY_SCOPE": "Linux 명령어와 운영체제 사용·운영의 기초 학습"
+  }
+]

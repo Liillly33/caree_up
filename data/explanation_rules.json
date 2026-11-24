@@ -1,0 +1,165 @@
+{
+  "version": "evidence-summary-v2",
+  "groups": [
+    {
+      "id": "database",
+      "title": "데이터 조회·관리 기술",
+      "tokens": [
+        "SQL",
+        "SQLD",
+        "SQLP"
+      ],
+      "categories": [
+        "database"
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "웹서비스 개발 기술",
+      "tokens": [
+        "Spring",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Node.js",
+        "Express",
+        "NestJS",
+        "ASP.NET",
+        "Laravel",
+        "Ruby on Rails",
+        "JPA",
+        "Hibernate",
+        "MyBatis",
+        "JSP"
+      ]
+    },
+    {
+      "id": "frontend",
+      "title": "프론트엔드 화면 개발 기술",
+      "tokens": [
+        "React",
+        "Vue",
+        "Angular",
+        "AngularJS",
+        "Svelte",
+        "Next.js",
+        "Nuxt.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Vue.js",
+        "jQuery"
+      ]
+    },
+    {
+      "id": "containers",
+      "title": "컨테이너·배포 환경 기술",
+      "tokens": [
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "CI/CD",
+        "Jenkins",
+        "GitHub Actions",
+        "ArgoCD"
+      ]
+    },
+    {
+      "id": "cloud",
+      "title": "클라우드 인프라 활용 기술",
+      "tokens": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "Terraform",
+        "Ansible",
+        "OpenStack"
+      ]
+    },
+    {
+      "id": "data_ai",
+      "title": "데이터 분석·모델링 기술",
+      "tokens": [
+        "Pandas",
+        "NumPy",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Spark",
+        "Hadoop",
+        "R",
+        "딥러닝",
+        "머신러닝"
+      ]
+    },
+    {
+      "id": "api",
+      "title": "API 연동·활용 기술",
+      "tokens": [
+        "REST API",
+        "공공 API",
+        "GraphQL",
+        "gRPC"
+      ]
+    },
+    {
+      "id": "systems",
+      "title": "시스템·운영 환경 기술",
+      "tokens": [
+        "Linux",
+        "Unix",
+        "Windows Server",
+        "Nginx",
+        "Apache",
+        "TCP/IP"
+      ]
+    },
+    {
+      "id": "testing",
+      "title": "자동화 테스트 기술",
+      "tokens": [
+        "Pytest",
+        "Selenium",
+        "Playwright",
+        "Cypress",
+        "JUnit",
+        "Jest"
+      ]
+    },
+    {
+      "id": "certificate",
+      "title": "자격 보유",
+      "categories": [
+        "certificate"
+      ]
+    },
+    {
+      "id": "language",
+      "title": "프로그래밍 기술",
+      "categories": [
+        "language"
+      ]
+    },
+    {
+      "id": "framework",
+      "title": "프레임워크 활용 기술",
+      "categories": [
+        "framework"
+      ]
+    },
+    {
+      "id": "other",
+      "title": "관련 개발 기술"
+    }
+  ],
+  "language_roles": {
+    "BE": "백엔드 개발 기술",
+    "FE": "프론트엔드 개발 기술",
+    "APP": "앱 개발 기술",
+    "DATA": "데이터 처리 기술",
+    "AIML": "AI·데이터 개발 기술",
+    "GAME": "게임 개발 기술",
+    "IOT": "임베디드 개발 기술"
+  }
+}

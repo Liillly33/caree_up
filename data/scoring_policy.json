@@ -1,0 +1,38 @@
+{
+  "version": 7,
+  "technical_points": 92,
+  "preference_bonuses": [
+    5,
+    3,
+    1
+  ],
+  "company_scale_bonuses": {
+    "대기업": 3,
+    "대기업·계열사·자회사": 3,
+    "대기업 계열사 자회사": 3,
+    "중견기업": 2,
+    "중소기업": 1
+  },
+  "unknown_company_bonus": 0,
+  "semantic_weight": 0.3,
+  "section_weights": {
+    "requirements": 2,
+    "preferences": 1
+  },
+  "bm25_weight": 0.1,
+  "importance_weights": {
+    "core": 0.5,
+    "auxiliary": 0.1,
+    "neutral": 0.3
+  },
+  "project_semantic": {
+    "section_weights": {
+      "responsibilities": 2,
+      "requirements": 2,
+      "preferences": 1
+    },
+    "similarity_floor": 0.4,
+    "similarity_ceiling": 0.85,
+    "duplicate_cosine": 0.98
+  }
+}

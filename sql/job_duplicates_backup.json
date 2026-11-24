@@ -1,0 +1,62 @@
+[
+  {
+    "JOB_ANN_ID": 191,
+    "JOB_ANN_TITLE": "이카운트 신입 채용 · 개발기획, 개발지원",
+    "JOB_CORP_NAME": "이카운트",
+    "JOB_CORP_SCALE": "중소기업",
+    "JOB_SALARY": "4250만원",
+    "JOB_LOCATION": "서울특별시 강동구",
+    "JOB_TYPE": "정규직",
+    "JOB_EXPERIENCE": "신입",
+    "JOB_RESPONSIBILITIES": "개발기획, 개발지원.",
+    "JOB_REQUIRE": "4년제 대학교 졸업자.",
+    "JOB_PREFERRD_QUALIFICATION": "언어특기자(영어, 중국어, 일본어, 베트남어 등)",
+    "JOB_URL": "https://udream.sejong.ac.kr/Recruit/RecruitView.aspx?rcdx=F31156221F0B5C1C19F4A4A2C388FA69E73EB94C850E0A3CCC1D689D42C1877128B9AD9223F59D27&modalChk=Y",
+    "JOB_CODE": "ETC"
+  },
+  {
+    "JOB_ANN_ID": 192,
+    "JOB_ANN_TITLE": "이카운트 신입 채용 · 전사 데이터의 효율적 관리를 위한 논리적 구조 및 로직 설계, 설계표준화를 위한 사전 관리, SQL을 이용한 공통 프로시저와 함수 개발…",
+    "JOB_CORP_NAME": "이카운트",
+    "JOB_CORP_SCALE": "중소기업",
+    "JOB_SALARY": "4750만원",
+    "JOB_LOCATION": "서울특별시 강동구",
+    "JOB_TYPE": "정규직",
+    "JOB_EXPERIENCE": "신입",
+    "JOB_RESPONSIBILITIES": "전사 데이터의 효율적 관리를 위한 논리적 구조 및 로직 설계, 설계표준화를 위한 사전 관리, SQL을 이용한 공통 프로시저와 함수 개발, 개선.",
+    "JOB_REQUIRE": "DB관련 전공자, DB 전공자에 준하는 교육 이수자.",
+    "JOB_PREFERRD_QUALIFICATION": "DB관련 자격증(DAP, DASP, SQLD, SQLP 등), DA 공모전 수상 경험, DA# 사용경험.",
+    "JOB_URL": "https://udream.sejong.ac.kr/Recruit/RecruitView.aspx?rcdx=CC627445580F70748E15BC8B14E3B4C9B25EE3112531FB8601E6B2E1DFBD773D&modalChk=Y",
+    "JOB_CODE": "DATA"
+  },
+  {
+    "JOB_ANN_ID": 202,
+    "JOB_ANN_TITLE": "인지소프트 신입 채용 · SW연구 개발, 솔루션 기반 프로젝트, 자사 솔루션 개발, 임베디드 개발, 유지보수, 금융권 OCR 인식 솔루션, 클라우드 플랫폼 개발",
+    "JOB_CORP_NAME": "인지소프트",
+    "JOB_CORP_SCALE": "중소기업",
+    "JOB_SALARY": "4000만원.",
+    "JOB_LOCATION": "서울특별시 강남구.",
+    "JOB_TYPE": "정규직",
+    "JOB_EXPERIENCE": "신입",
+    "JOB_RESPONSIBILITIES": "SW연구 개발, 솔루션 기반 프로젝트, 자사 솔루션 개발, 임베디드 개발, 유지보수, 금융권 OCR 인식 솔루션, 클라우드 플랫폼 개발.",
+    "JOB_REQUIRE": "학사 이상 졸업, 코딩테스트 이후 진행.",
+    "JOB_PREFERRD_QUALIFICATION": "1가지 이상의 개발언어 숙달, (Swift, Objective-C, Java, Kotlin) 개발 역량, Android와 iOS 동시 개발 가능, Winform 개발 경험.",
+    "JOB_URL": "https://udream.sejong.ac.kr/Recruit/RecruitView.aspx?rcdx=38308BD4C27F8D8D268ECCDA20F3289C6838966F8957412026BB0452B56E027689A54C7E3FDE2CEC&modalChk=Y",
+    "JOB_CODE": "ETC"
+  },
+  {
+    "JOB_ANN_ID": 253,
+    "JOB_ANN_TITLE": "한국아즈빌(주) 인턴 채용 · Distributed Control System 및 관련 Solution 영업 활동, 신규시장 개척 및 기존고객 관리/제안영업",
+    "JOB_CORP_NAME": "한국아즈빌",
+    "JOB_CORP_SCALE": "중견기업",
+    "JOB_SALARY": null,
+    "JOB_LOCATION": "서울특별시 영등포구",
+    "JOB_TYPE": "계약직",
+    "JOB_EXPERIENCE": "인턴",
+    "JOB_RESPONSIBILITIES": "Distributed Control System 및 관련 Solution 영업 활동, 신규시장 개척 및 기존고객 관리/제안영업.",
+    "JOB_REQUIRE": "전문대 이상.",
+    "JOB_PREFERRD_QUALIFICATION": "공학계열 전공.",
+    "JOB_URL": "https://udream.sejong.ac.kr/Recruit/RecruitView.aspx?rcdx=2ECFDD5D1442FE295AF4DE22348E0705C88C3AB1FD2623B0685A2E65A236AE484A8DABB83B6249EF&modalChk=Y",
+    "JOB_CODE": "ETC"
+  }
+]
